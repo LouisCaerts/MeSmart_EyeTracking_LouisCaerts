@@ -2,6 +2,19 @@
 
 ## A repository containing my combined work while at UZH IRM.
 
+
+### TODO
+* Add a "section 0" that talks about the kind of data that was available (the input) and the problems that might arise from it, the expectations in the beginning, the sources referenced, brief introduction, ...
+* NEW DIVISION OF STEPS
+    * STEP 0 ==> Introduction, what kind of data, anticipated challenges, goals, expectations, ...
+    * STEP 1 ==> Basic code + experimentations with it 
+    * STEP 2 ==> Justifying the non-edited videos (5-mins video comparisons)
+    * STEP 3 ==> Edit code for longer videos and more of them ==> problem with threshold ==> same comparison but with 15-min video (+tests with various threshold calculations) ==> finish with threshold calculation method choice
+    * STEP 4 ==> Full analysis of database and potential problem ==> Full dataframe with descriptions of results, post-processing, ... full discussion of dataframe: how well did previous decisions turn out? Can it even be better?
+    * STEP 5 ==> Actual data analysis + modelling (exploratory + GLM)
+    * STEP 6 ==> Potential publication (work in progress, don't bother with this for now)
+    * STEP 7 ==> Full codebase for future reuse (kinda separate)
+
   
 
 ### Introduction
